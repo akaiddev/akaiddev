@@ -1,6 +1,6 @@
 ## Hi There My Gorgeous Friend
 
-I'm akaid, I am a programmer and a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/>. I Spend most of time programming outstanding projects or I develop myself everyday.
+I'm akaid, I am a programmer and a Full Stack Web Application Developer from bangladesh. I Spend most of time programming with Full Stack Web Application outstanding projects. I develop myself everyday.
 
 - 👋 Hi, I’m @akaiddev
 - 👀 I’m interested in programming

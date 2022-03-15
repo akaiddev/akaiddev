@@ -1,3 +1,7 @@
+## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+
+I'm akaid, I am a programmer and a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/>. I Spend most of time programming outstanding projects or I develop myself everyday.
+
 - 👋 Hi, I’m @akaiddev
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning data structures and algorithms
